@@ -1,0 +1,232 @@
+Tue Oct 29 14:18:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 842
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5327
+    | |           "CurrentCapacity" = 4663
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709549178,"Flags"=4,"Capacity"=5327,"Current"=4663,"Voltage"=11692,"Cycle Count"=842}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:19:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 842
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5327
+    | |           "CurrentCapacity" = 4618
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709548971,"Flags"=4,"Capacity"=5327,"Current"=4618,"Voltage"=11647,"Cycle Count"=842}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:20:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 842
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5327
+    | |           "CurrentCapacity" = 4572
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709548980,"Flags"=4,"Capacity"=5327,"Current"=4572,"Voltage"=11635,"Cycle Count"=842}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:21:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 842
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5327
+    | |           "CurrentCapacity" = 4525
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709548915,"Flags"=4,"Capacity"=5327,"Current"=4525,"Voltage"=11593,"Cycle Count"=842}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:22:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 842
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5327
+    | |           "CurrentCapacity" = 4472
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709548382,"Flags"=4,"Capacity"=5327,"Current"=4472,"Voltage"=11537,"Cycle Count"=842}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:23:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 843
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5327
+    | |           "CurrentCapacity" = 4423
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709548364,"Flags"=4,"Capacity"=5327,"Current"=4423,"Voltage"=11430,"Cycle Count"=843}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:24:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 843
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5327
+    | |           "CurrentCapacity" = 4374
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709548848,"Flags"=4,"Capacity"=5327,"Current"=4374,"Voltage"=11555,"Cycle Count"=843}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:25:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 843
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5327
+    | |           "CurrentCapacity" = 4327
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709548897,"Flags"=4,"Capacity"=5327,"Current"=4327,"Voltage"=11535,"Cycle Count"=843}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:26:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 843
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5327
+    | |           "CurrentCapacity" = 4280
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709548876,"Flags"=4,"Capacity"=5327,"Current"=4280,"Voltage"=11471,"Cycle Count"=843}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:27:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 843
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5327
+    | |           "CurrentCapacity" = 4232
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709548856,"Flags"=4,"Capacity"=5327,"Current"=4232,"Voltage"=11451,"Cycle Count"=843}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:28:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 843
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5327
+    | |           "CurrentCapacity" = 4184
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709548613,"Flags"=4,"Capacity"=5327,"Current"=4184,"Voltage"=11402,"Cycle Count"=843}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:29:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 843
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5304
+    | |           "CurrentCapacity" = 4114
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709548878,"Flags"=4,"Capacity"=5304,"Current"=4114,"Voltage"=11478,"Cycle Count"=843}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:30:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 843
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5304
+    | |           "CurrentCapacity" = 4067
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709548954,"Flags"=4,"Capacity"=5304,"Current"=4067,"Voltage"=11451,"Cycle Count"=843}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:31:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 843
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5304
+    | |           "CurrentCapacity" = 4024
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709549112,"Flags"=4,"Capacity"=5304,"Current"=4024,"Voltage"=11431,"Cycle Count"=843}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:32:39 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 843
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5312
+    | |           "CurrentCapacity" = 3955
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709551434,"Flags"=4,"Capacity"=5312,"Current"=3955,"Voltage"=11666,"Cycle Count"=843}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:35:03 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 843
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5312
+    | |           "CurrentCapacity" = 3955
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709551434,"Flags"=4,"Capacity"=5312,"Current"=3955,"Voltage"=11666,"Cycle Count"=843}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:36:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 843
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5312
+    | |           "CurrentCapacity" = 3936
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709549891,"Flags"=4,"Capacity"=5312,"Current"=3936,"Voltage"=11568,"Cycle Count"=843}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:37:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 843
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5312
+    | |           "CurrentCapacity" = 3906
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709549846,"Flags"=4,"Capacity"=5312,"Current"=3906,"Voltage"=11605,"Cycle Count"=843}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:38:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 843
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5312
+    | |           "CurrentCapacity" = 3854
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709548847,"Flags"=4,"Capacity"=5312,"Current"=3854,"Voltage"=11430,"Cycle Count"=843}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:39:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 843
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5312
+    | |           "CurrentCapacity" = 3808
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709549084,"Flags"=4,"Capacity"=5312,"Current"=3808,"Voltage"=11434,"Cycle Count"=843}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:40:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 843
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5312
+    | |           "CurrentCapacity" = 3765
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709549539,"Flags"=4,"Capacity"=5312,"Current"=3765,"Voltage"=11494,"Cycle Count"=843}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:41:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 843
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5312
+    | |           "CurrentCapacity" = 3739
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709550174,"Flags"=4,"Capacity"=5312,"Current"=3739,"Voltage"=11563,"Cycle Count"=843}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:42:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 843
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5312
+    | |           "CurrentCapacity" = 3696
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709549074,"Flags"=4,"Capacity"=5312,"Current"=3696,"Voltage"=11296,"Cycle Count"=843}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:43:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 843
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5312
+    | |           "CurrentCapacity" = 3658
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709549458,"Flags"=4,"Capacity"=5312,"Current"=3658,"Voltage"=11369,"Cycle Count"=843}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:44:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 843
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5312
+    | |           "CurrentCapacity" = 3625
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709549742,"Flags"=4,"Capacity"=5312,"Current"=3625,"Voltage"=11407,"Cycle Count"=843}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:45:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 843
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5312
+    | |           "CurrentCapacity" = 3589
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709549849,"Flags"=4,"Capacity"=5312,"Current"=3589,"Voltage"=11412,"Cycle Count"=843}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:46:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 843
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5312
+    | |           "CurrentCapacity" = 3552
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709548914,"Flags"=4,"Capacity"=5312,"Current"=3552,"Voltage"=11183,"Cycle Count"=843}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:47:00 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 843
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5312
+    | |           "CurrentCapacity" = 3518
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709549709,"Flags"=4,"Capacity"=5312,"Current"=3518,"Voltage"=11407,"Cycle Count"=843}
+    | |           "DesignCapacity" = 6900
+Tue Oct 29 14:48:01 CDT 2013
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 843
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 5341
+    | |           "CurrentCapacity" = 3510
+    | |           "LegacyBatteryInfo" = {"Amperage"=18446744073709549497,"Flags"=4,"Capacity"=5341,"Current"=3510,"Voltage"=11283,"Cycle Count"=843}
+    | |           "DesignCapacity" = 6900
