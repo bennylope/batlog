@@ -13,7 +13,7 @@ To prevent emails every minute on the minute, download the following shell scrip
 
 Install it in your /usr/bin/ directory and set commands appropriately
 
-    chmod 755 cronic
+    $ chmod 755 cronic
 
 To run the cron script, set up the crontab:
 
