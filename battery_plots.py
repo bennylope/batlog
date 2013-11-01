@@ -6,10 +6,10 @@ import matplotlib.dates as mdates
 from datetime import datetime
 
 plt.ion()
+batlog_dir = '/Users/willettk/batlog'
 
 def parse_batlog():
 
-    batlog_dir = '/Users/willettk/batlog'
     batlog_file = '%s/batlog.dat' % batlog_dir
 
     os.system('grep "^[A-Z]" %s > dates.txt' % batlog_file)
@@ -34,7 +34,9 @@ def parse_batlog():
 
     return dt,cc,mc
 
-def plot_capacity_time(dt,cc,mc):
+def plot_capacity_time(showcc=True):
+
+    dt,cc,mc = parse_batlog()
 
     design_capacity = float(subprocess.check_output("ioreg -l | grep 'DesignCapacity' | awk '{print $5}'", shell=True).rsplit()[0])
     dc = design_capacity
@@ -42,7 +44,7 @@ def plot_capacity_time(dt,cc,mc):
     max_percentage = [float(m)/float(dc) for m in mc]
     current_percentage = [float(c)/float(dc) for c in cc]
 
-    fig,ax = plt.subplots(num=4)
+    fig,ax = plt.subplots(num=1)
 
     years    = mdates.YearLocator()   # every year
     days   = mdates.HourLocator(interval=12)  # every day
@@ -50,16 +52,23 @@ def plot_capacity_time(dt,cc,mc):
 
     #ax.plot_date(dt,cc,'.',color='blue')
     #ax.plot_date(dt,mc,'.',color='red')
-    ax.plot_date(dt,current_percentage,'.',color='blue')
+    legend_str = ['MaxCapacity']
     ax.plot_date(dt,max_percentage,'.',color='red')
+    if showcc:
+        ax.plot_date(dt,current_percentage,'.',color='blue')
+        legend_str.append('CurrentCapacity')
 
     ax.autoscale_view()
     #ax.xaxis.set_major_locator(days)
     ax.xaxis.set_major_formatter(fullFmt)
     fig.autofmt_xdate()
 
-    plt.legend(('CurrentCapacity','MaxCapacity'), 'best', shadow=True, fancybox=True, numpoints=1)
+    ax.yaxis.set_label('Percentage')
+
+    plt.legend(legend_str, 'best', shadow=True, fancybox=True, numpoints=1)
     plt.show()
+
+    plt.savefig('%s/images/capacity_time.png' % batlog_dir,dpi=100)
 
     return None
 
